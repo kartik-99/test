@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="detail_is_card">true</bool>
+    <dimen name="detail_card_top_margin">256dp</dimen>
+    <dimen name="detail_photo_height">304dp</dimen>
+    <style name="width_match_parent_max_200">
+        <item name="android:layout_width">800dp</item>
+        <item name="android:elevation">16dp</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v13:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/51887897e5b4a71b04d58ab81b104f37/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/cc7f3445c89d4a5b81b099247312944f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/15b01b6c1a44f444dd87208ace4d26a6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/42b5e7ffef49df09969c7e873336cfc8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/30c41bc5c42a73ebe64b958acafceec2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/5f59dcb6d53c7f24bdf79a5a701d8c0a/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/312a09d0b71c6cf25dd3b847509e446c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/0eeb18aacd6f6f842d4442ad909ed436/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/8d04b718405a14b374dbdab1129b3609/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/9e528eec04ebdb19267d0354a68d2f06/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/0b50447f7db0e6e80407e547406397c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/e931a3e0d59194283def7a42ab1b75dc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/f8faebe0b41ffa883b0a7b2c4d1ce424/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/f675452ac611ebc7e01a3a9c5cf9844b/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:1:1-47:12
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:1:1-47:12
+	package
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:9:22-76
+application
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:11:5-45:19
+MERGED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/51887897e5b4a71b04d58ab81b104f37/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/51887897e5b4a71b04d58ab81b104f37/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/cc7f3445c89d4a5b81b099247312944f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/cc7f3445c89d4a5b81b099247312944f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/15b01b6c1a44f444dd87208ace4d26a6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/15b01b6c1a44f444dd87208ace4d26a6/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/42b5e7ffef49df09969c7e873336cfc8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/42b5e7ffef49df09969c7e873336cfc8/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/30c41bc5c42a73ebe64b958acafceec2/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/30c41bc5c42a73ebe64b958acafceec2/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/312a09d0b71c6cf25dd3b847509e446c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/312a09d0b71c6cf25dd3b847509e446c/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/0eeb18aacd6f6f842d4442ad909ed436/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/0eeb18aacd6f6f842d4442ad909ed436/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/8d04b718405a14b374dbdab1129b3609/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/8d04b718405a14b374dbdab1129b3609/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/9e528eec04ebdb19267d0354a68d2f06/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/9e528eec04ebdb19267d0354a68d2f06/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/0b50447f7db0e6e80407e547406397c7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/0b50447f7db0e6e80407e547406397c7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/e931a3e0d59194283def7a42ab1b75dc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/e931a3e0d59194283def7a42ab1b75dc/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/f8faebe0b41ffa883b0a7b2c4d1ce424/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/f8faebe0b41ffa883b0a7b2c4d1ce424/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/f675452ac611ebc7e01a3a9c5cf9844b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/f675452ac611ebc7e01a3a9c5cf9844b/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:17:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:25:9-36:20
+	android:parentActivityName
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:27:13-65
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:26:13-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.item/vnd.com.example.xyzreader.items
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.VIEW
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:30:27-73
+data
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:31:17-100
+	android:mimeType
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:31:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:33:13-35:59
+	android:value
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:35:17-56
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:34:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:38:9-39:40
+	android:exported
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:38:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:41:9-43:40
+	android:authorities
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:42:13-56
+	android:exported
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml:41:19-53
+uses-sdk
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:support-v13:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/51887897e5b4a71b04d58ab81b104f37/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/51887897e5b4a71b04d58ab81b104f37/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/cc7f3445c89d4a5b81b099247312944f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/cc7f3445c89d4a5b81b099247312944f/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/15b01b6c1a44f444dd87208ace4d26a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/15b01b6c1a44f444dd87208ace4d26a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/42b5e7ffef49df09969c7e873336cfc8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/42b5e7ffef49df09969c7e873336cfc8/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:palette-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/30c41bc5c42a73ebe64b958acafceec2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/30c41bc5c42a73ebe64b958acafceec2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/5f59dcb6d53c7f24bdf79a5a701d8c0a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/5f59dcb6d53c7f24bdf79a5a701d8c0a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/312a09d0b71c6cf25dd3b847509e446c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/312a09d0b71c6cf25dd3b847509e446c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/0eeb18aacd6f6f842d4442ad909ed436/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/0eeb18aacd6f6f842d4442ad909ed436/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/8d04b718405a14b374dbdab1129b3609/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/8d04b718405a14b374dbdab1129b3609/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/9e528eec04ebdb19267d0354a68d2f06/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/9e528eec04ebdb19267d0354a68d2f06/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/0b50447f7db0e6e80407e547406397c7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/0b50447f7db0e6e80407e547406397c7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/e931a3e0d59194283def7a42ab1b75dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/e931a3e0d59194283def7a42ab1b75dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/f8faebe0b41ffa883b0a7b2c4d1ce424/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/f8faebe0b41ffa883b0a7b2c4d1ce424/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/f675452ac611ebc7e01a3a9c5cf9844b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/f675452ac611ebc7e01a3a9c5cf9844b/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+		ADDED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+		INJECTED from /home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v13:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/51887897e5b4a71b04d58ab81b104f37/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v13:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/51887897e5b4a71b04d58ab81b104f37/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/cc7f3445c89d4a5b81b099247312944f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/cc7f3445c89d4a5b81b099247312944f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/15b01b6c1a44f444dd87208ace4d26a6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/15b01b6c1a44f444dd87208ace4d26a6/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/42b5e7ffef49df09969c7e873336cfc8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/42b5e7ffef49df09969c7e873336cfc8/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:palette-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/30c41bc5c42a73ebe64b958acafceec2/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:palette-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/palette-v7-25.3.0.aar/30c41bc5c42a73ebe64b958acafceec2/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/5f59dcb6d53c7f24bdf79a5a701d8c0a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/5f59dcb6d53c7f24bdf79a5a701d8c0a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/312a09d0b71c6cf25dd3b847509e446c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/312a09d0b71c6cf25dd3b847509e446c/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/0eeb18aacd6f6f842d4442ad909ed436/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/0eeb18aacd6f6f842d4442ad909ed436/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/8d04b718405a14b374dbdab1129b3609/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/8d04b718405a14b374dbdab1129b3609/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/9e528eec04ebdb19267d0354a68d2f06/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/9e528eec04ebdb19267d0354a68d2f06/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/0b50447f7db0e6e80407e547406397c7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/0b50447f7db0e6e80407e547406397c7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/e931a3e0d59194283def7a42ab1b75dc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/e931a3e0d59194283def7a42ab1b75dc/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/f8faebe0b41ffa883b0a7b2c4d1ce424/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/f8faebe0b41ffa883b0a7b2c4d1ce424/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/f675452ac611ebc7e01a3a9c5cf9844b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/f675452ac611ebc7e01a3a9c5cf9844b/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/AndroidManifest.xml:26:9-47

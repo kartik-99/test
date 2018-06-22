@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
+                    "from": {
+                        "startLines": "2,5,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "36,133,81",
+                        "endColumns": "43,54,51",
+                        "endOffsets": "75,183,128"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,99,154",
+                        "endColumns": "43,54,51",
+                        "endOffsets": "94,149,201"
+                    }
+                },
+                {
+                    "source": "/home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/res/values-sw600dp-land/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "283"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "206",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "434"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/kartik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/cc7f3445c89d4a5b81b099247312944f/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/kartik/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/c5f2344f26f7bc23d227aa409fa46f0e/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "437",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "614"
+                    }
+                },
+                {
+                    "source": "/home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/res/values-land/macro_layout.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "88,36",
+                        "endColumns": "56,51",
+                        "endOffsets": "140,83"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "328,385",
+                        "endColumns": "56,51",
+                        "endOffsets": "380,432"
+                    }
+                },
+                {
+                    "source": "/home/kartik/Android/projects/nanodegree/XYZ/xyz_reader/XYZReader/src/main/res/values-land/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "283"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "619",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "847"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jun 19 21:23:15 IST 2018
+0.baseType=DIRECTORY
+0.base=/home/kartik/Android/projects/nanodegree/XYZ/XYZ-Reader/XYZReader/build/intermediates/assets/debug
+0.path=Rosario-Regular.ttf
+0.set=ASSET
+count=1
